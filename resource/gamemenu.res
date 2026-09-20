@@ -5,7 +5,7 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"0nionhud"
+		"label"										"m0rehud 7.3"
 		"Command"									"engine showconsole; echo m0rehud by Hypnotize, created by m0re. Download new versions @ github.com/Hypnootize/m0rehud"
 		"OnlyAtMenu"								"1"
 	}
@@ -72,12 +72,6 @@
 		"Command"									"motd_show"
 		"tooltip"									"Friends List"
 	}
-	"MatchmakingSettings"
-	{
-		"label"										"g"
-		"Command"									"performmatchmaking"
-		"tooltip"									"Matchmaking Settings"
-	}
 	"Quickplay"
 	{
 		"label"										"n"
@@ -132,13 +126,6 @@
 		"label"										"D"
 		"Command"									"engine stop; ds_record"
 		"tooltip"									"Fix Visual Glitches"
-		"OnlyInGame"								"1"
-	}
-	"Contracker_Icon"
-	{
-		"label"										"C"
-		"Command"									"questlog"
-		"tooltip"									"Contracker"
 		"OnlyInGame"								"1"
 	}
 
