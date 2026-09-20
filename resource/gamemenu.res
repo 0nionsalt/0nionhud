@@ -75,7 +75,7 @@
 	"MatchmakingSettings"
 	{
 		"label"										"g"
-		"Command"									"OpenMatchmakingSettings"
+		"Command"									"performmatchmaking"
 		"tooltip"									"Matchmaking Settings"
 	}
 	"Quickplay"
