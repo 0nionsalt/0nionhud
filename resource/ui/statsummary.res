@@ -15,7 +15,7 @@
 	// CUSTOM BACKGROUND IMAGE
 	//-------------------------------------------------------------------------------------
 	// Check out the dedicated wiki page on how to enable custom backgrounds
-	// https://github.com/Hypnootize/m0rehud/wiki/LOADING-SCREEN
+	// https://github.com/Hypnootize/0nionhud/wiki/LOADING-SCREEN
 	//=====================================================================================
 	"CustomBackground"
 	{

@@ -51,7 +51,7 @@
 //==============================================================
 // FOLDER NAME MESSAGE
 //==============================================================
-#base "../../../../../m0rehud/resource/ui/customizations/#customization_menu/hud_customization_folder_set.res"
+#base "hud_customization_folder_set.res"
 #base "hud_customization_folder.res"
 
 //==============================================================

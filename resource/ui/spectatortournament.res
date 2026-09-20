@@ -1,5 +1,5 @@
 // STREAMER MODE
-#base "../../../../cfg/m0rehud/m0re_specgui_stream.txt"
+#base "../../../../cfg/0nionhud/m0re_specgui_stream.txt"
 
 // BASE CONTENT
 #base "hudinspectpanel.res"

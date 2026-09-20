@@ -85,7 +85,7 @@
 			"LabelText"									"HUD WIKI"
 			"Font"										"FontStorePrice"
 			"TextAlignment"								"center"
-			"Command"									"url https://github.com/Hypnootize/m0rehud/wiki/CUSTOMIZATIONS"
+			"Command"									"url https://github.com/Hypnootize/0nionhud/wiki/CUSTOMIZATIONS"
 			"PaintBackground"							"1"
 
 			"DefaultBGColor_Override"					"Button_Dark"
@@ -170,7 +170,7 @@
 			"LabelText"									"Troubleshooting"
 			"Font"										"FontStorePrice"
 			"TextAlignment"								"center"
-			"Command"									"url https://github.com/Hypnootize/m0rehud/wiki/TROUBLESHOOTING"
+			"Command"									"url https://github.com/Hypnootize/0nionhud/wiki/TROUBLESHOOTING"
 			"ActionSignalLevel"							"2"
 			"Sound_Depressed"							"UI/buttonclick.wav"
 
