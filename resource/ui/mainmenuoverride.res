@@ -234,7 +234,7 @@
 		"Tall"										"17"
 		"Visible"									"1"
 
-		"Pin_To_Sibling"							"Workshop"
+		"Pin_To_Sibling"							"MainMenuAnchor"
 		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
 		"Pin_To_Sibling_Corner"						"PIN_BOTTOMLEFT"
 
@@ -1188,7 +1188,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MatchmakingSettings"
-		"XPos"										"139"
+		"XPos"										"165"
 		"YPos"										"0"
 		"ZPos"										"10005"
 		"Wide"										"24"
