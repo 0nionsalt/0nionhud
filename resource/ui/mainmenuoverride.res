@@ -1125,6 +1125,8 @@
 			"Font"									"Symbols18"
 			"AllCaps"								"0"
 			"TextAlignment"							"center"
+			"Command"								"motd_show"
+			"ActionSignalLevel"						"1"
 			"Sound_Depressed"						"UI/buttonclick.wav"
 
 			"PaintBackground"						"1"

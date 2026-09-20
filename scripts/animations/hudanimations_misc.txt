@@ -68,6 +68,18 @@ event ActiveTimerDim
 
 //===========================================================================================================================
 
+event MotdShow
+{
+	SetVisible MOTD_Panel							1 0
+}
+
+event MotdHide
+{
+	SetVisible MOTD_Panel							0 0
+}
+
+//===========================================================================================================================
+
 event HudSnapShotReminderIn
 {
 	RunEvent HudHealthDyingPulseStop				10.0
