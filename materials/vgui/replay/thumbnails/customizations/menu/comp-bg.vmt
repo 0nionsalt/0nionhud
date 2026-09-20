@@ -1,4 +1,8 @@
-"LightmappedGeneric"
+"UnlitGeneric"
 {
-	"$basetexture" "Users/FiercePC/Downloads/your_custom_bg"
+    "$baseTexture"            "vgui/replay/thumbnails/customizations/menu/comp-bg"
+    "$vertexalpha"            "1"
+    "$alpha"                "1"
+    "$translucent"            "1"
+    "$vertexcolor"            "1"
 }
