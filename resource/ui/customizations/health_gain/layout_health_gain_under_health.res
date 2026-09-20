@@ -4,7 +4,7 @@
 	{
 		"XPos"										"c-188"
 		"XPos_Minmode"								"c-104"
-		"YPos"										"c40"
-		"YPos_Minmode"								"c20"
+		"YPos"										"c50"
+		"YPos_Minmode"								"c30"
 	}
 }

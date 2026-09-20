@@ -8,7 +8,7 @@
 		"delta_item_end_y"							"2"
 		"PositiveColor"								"Health_Gained"
 		"NegativeColor"								"Health_Lost"
-		"delta_lifetime"							"1"
+		"delta_lifetime"							"2"
 		"delta_item_font"							"m0refont24"
 	}
 }
