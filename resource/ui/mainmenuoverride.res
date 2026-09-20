@@ -1146,7 +1146,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MOTD_Panel"
-		"XPos"										"c-100"
+		"XPos"										"c-25"
 		"YPos"										"cs-0.5+65"
 		"ZPos"										"100"
 		"Wide"										"200"
