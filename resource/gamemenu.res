@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0rehud 7.3"
-		"Command"									"engine showconsole; echo m0rehud by Hypnotize, created by m0re. Download new versions @ github.com/Hypnootize/m0rehud"
+		"label"										"0nionhud"
+		"Command"									"engine showconsole; echo 0nionhud edited by 0nionsalt, created by m0re"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
