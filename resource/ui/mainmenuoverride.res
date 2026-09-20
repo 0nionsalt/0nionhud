@@ -232,9 +232,11 @@
 		"ZPos"										"15"
 		"Wide"										"150"
 		"Tall"										"17"
-		"Visible"									"0"
+		"Visible"									"1"
 
-		"Pin_To_Sibling"							"MainMenuAnchor"
+		"Pin_To_Sibling"							"Workshop"
+		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
+		"Pin_To_Sibling_Corner"						"PIN_BOTTOMLEFT"
 
 		"SubButton"
 		{
@@ -631,6 +633,7 @@
 		"ZPos"										"15"
 		"Wide"										"150"
 		"Tall"										"17"
+		"Visible"									"0"
 
 		"Pin_To_Sibling"							"DemoUI"
 		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
@@ -672,7 +675,7 @@
 		"Wide"										"150"
 		"Tall"										"17"
 
-		"Pin_To_Sibling"							"Contracker"
+		"Pin_To_Sibling"							"DemoUI"
 		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
 		"Pin_To_Sibling_Corner"						"PIN_BOTTOMLEFT"
 
@@ -717,7 +720,7 @@
 		"Tall"										"17"
 		"Visible"									"0"
 
-		"Pin_To_Sibling"							"Contracker"
+		"Pin_To_Sibling"							"Quit"
 		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
 		"Pin_To_Sibling_Corner"						"PIN_BOTTOMLEFT"
 
@@ -988,6 +991,46 @@
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
+	"Contracker_Icon"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"Contracker_Icon"
+		"XPos"										"2"
+		"YPos"										"0"
+		"ZPos"										"15"
+		"Wide"										"20"
+		"Tall"										"17"
+		"Visible"									"1"
+
+		"Pin_To_Sibling"							"Fix_Visual_Glitches"
+		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
+		"Pin_To_Sibling_Corner"						"PIN_TOPRIGHT"
+
+		"SubButton"
+		{
+			"ControlName"							"CExImageButton"
+			"FieldName"								"SubButton"
+			"XPos"									"0"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"Visible"								"1"
+			"Enabled"								"1"
+			"ProportionalToParent"					"1"
+			"Use_Proportional_Insets"				"1"
+			"TextInsetX"							"0"
+			"Font"									"Symbols18"
+			"TextAlignment"							"center"
+			"Sound_Depressed"						"UI/buttonclick.wav"
+
+			"PaintBackground"						"0"
+			"PaintBorder"							"0"
+
+			"DefaultFGColor_Override"				"White"
+			"ArmedFGColor_Override"					"Menu_Accent"
+			"DepressedFGColor_Override"				"Menu_Accent"
+		}
+	}
 
 	//==================================================================================================================================================
 	// NOTIFICATIONS BUTTON
@@ -1110,6 +1153,46 @@
 		"ZPos"										"10005"
 		"Wide"										"24"
 		"Tall"										"19"
+		"Visible"									"0"
+
+		"SubButton"
+		{
+			"ControlName"							"CExImageButton"
+			"FieldName"								"SubButton"
+			"XPos"									"0"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"Visible"								"1"
+			"Enabled"								"1"
+			"ProportionalToParent"					"1"
+			"Font"									"Symbols18"
+			"AllCaps"								"0"
+			"TextAlignment"							"center"
+			"Sound_Depressed"						"UI/buttonclick.wav"
+
+			"PaintBackground"						"1"
+			"PaintBorder"							"0"
+			"RoundedCorners"						"0"
+
+			"DefaultFGColor_Override"				"White"
+			"ArmedFGColor_Override"					"White"
+			"DepressedFGColor_Override"				"White"
+
+			"DefaultBGColor_Override"				"TransparentBlack"
+			"ArmedBGColor_Override"					"Menu_Accent"
+			"DepressedBGColor_Override"				"Menu_Accent"
+		}
+	}
+	"MatchmakingSettings"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"MatchmakingSettings"
+		"XPos"										"139"
+		"YPos"										"0"
+		"ZPos"										"10005"
+		"Wide"										"24"
+		"Tall"										"19"
 
 		"SubButton"
 		{
@@ -1144,11 +1227,11 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MOTD_Panel"
-		"XPos"										"c-350"
+		"XPos"										"c-550"
 		"YPos"										"cs-0.5+65"
 		"ZPos"										"11"
 		"Wide"										"110"
-		"Tall"										"214"
+		"Tall"										"350"
 		"Visible"									"1"
 
 		"CloseButton"
@@ -1160,7 +1243,7 @@
 			"ZPos"									"1"
 			"Wide"									"16"
 			"Tall"									"16"
-			"Visible"								"1"
+			"Visible"								"0"
 			"Enabled"								"1"
 			"ProportionalToParent"					"1"
 			"Font"									"Symbols18"
