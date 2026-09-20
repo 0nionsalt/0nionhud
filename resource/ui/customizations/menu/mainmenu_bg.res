@@ -2,7 +2,7 @@
 {
 	"Custom_Background"
 	{
-		"ControlName"								"ImagePanel"
+		"ControlName"								"EditablePanel"
 		"FieldName"									"Custom_Background"
 		"XPos"										"cs-0.5"
 		"YPos"										"cs-0.5"
@@ -12,7 +12,8 @@
 		"ProportionalToParent"						"1"
 		"Visible"									"1"
 		"Enabled"									"1"
-		"ScaleImage"								"1"
-		"Image"										"replay/thumbnails/customizations/menu/comp-bg"
+		"PaintBackground"							"1"
+		"PaintBackgroundType"						"0"
+		"BGcolor_Override"							"Background_Main"
 	}
 }
