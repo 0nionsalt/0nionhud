@@ -23,6 +23,22 @@
 		"button_y"									"190"
 		"button_y_delta"							"3"
 
+		"Custom_Background"
+		{
+			"ControlName"							"ImagePanel"
+			"FieldName"							"Custom_Background"
+			"XPos"									"cs-0.5"
+			"YPos"									"cs-0.5"
+			"ZPos"									"-10"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"Visible"								"1"
+			"Enabled"								"1"
+			"ScaleImage"							"1"
+			"Image"									"replay/thumbnails/customizations/menu/comp-bg"
+		}
+
 		"Button_KV"
 		{
 			"XPos"									"0"
@@ -1146,7 +1162,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MOTD_Panel"
-		"XPos"										"c-25"
+		"XPos"										"c+125"
 		"YPos"										"cs-0.5+65"
 		"ZPos"										"100"
 		"Wide"										"200"
