@@ -68,7 +68,7 @@
 				"Tall"								"f0"
 				"Visible"							"1"
 				"ProportionalToParent"				"1"
-				"Font"								"m0refont11Shadow"
+				"Font"								"m0refont14Shadow"
 				"LabelText"							"%playername%"
 				"TextAlignment"						"west"
 				"FGColor"							"White"
