@@ -355,7 +355,8 @@
 		// CUSTOM USER FONT
 		"300"
 		{
-
+			"Font"		"resource/scheme/fonts/fonts_optional/tf2build.ttf"
+			"name"		"tf2build"
 		}
 	}
 }
