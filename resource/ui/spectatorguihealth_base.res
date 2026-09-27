@@ -67,6 +67,8 @@
 		"LabelText"									"%Health%"
 		"Font"										"m0refont14"
 		"Font_Minmode"								"m0refont12"
+		"Font_Buff"									"m0refont12"
+		"Font_Minmode_Buff"							"m0refont10"
 		"FGColor"									"Health_Numbers"
 	}
 	"HealthValue_Target_Shadow"
@@ -87,6 +89,8 @@
 		"LabelText"									"%Health%"
 		"Font"										"m0refont14"
 		"Font_Minmode"								"m0refont12"
+		"Font_Buff"									"m0refont12"
+		"Font_Minmode_Buff"							"m0refont10"
 		"FGColor"									"Black"
 
 		"Pin_To_Sibling"							"HealthValue_Target"

@@ -58,6 +58,49 @@
 		"Visible"									"1"
 		"Enabled"									"1"
 	}
+	"SpecGUI"
+	{
+		"PlayerPanels_KV"
+		{
+			"AvatarBGPanel"
+			{
+				"ControlName"						"EditablePanel"
+				"FieldName"							"AvatarBGPanel"
+				"XPos"								"0"
+				"YPos"								"cs-0.5"
+				"ZPos"								"-1"
+				"Wide"								"22"
+				"Tall"								"22"
+				"Visible"							"1"
+				"PaintBackground"					"1"
+				"PaintBackgroundType"				"0"
+				"BGColor_Override"					"TransparentLightBlack"
+				"ProportionalToParent"				"1"
+			}
+			"AvatarImage"
+			{
+				"ControlName"						"CAvatarImagePanel"
+				"FieldName"							"AvatarImage"
+				"XPos"								"-2"
+				"YPos"								"-2"
+				"ZPos"								"0"
+				"Wide"								"18"
+				"Tall"								"18"
+				"Visible"							"1"
+				"Enabled"							"1"
+				"ProportionalToParent"				"1"
+				"ScaleImage"						"1"
+				"ShouldDrawFriendIcon"				"0"
+
+				"Pin_To_Sibling"					"AvatarBGPanel"
+			}
+			"HealthIcon"
+			{
+				"TFFont_Buff"						"HudFontSmallest"
+				"TFFont_Minmode_Buff"				"HudFontSmallest"
+			}
+		}
+	}
 
 
 
