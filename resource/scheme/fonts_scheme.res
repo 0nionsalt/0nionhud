@@ -320,7 +320,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"tf2build"
 				"Tall"										"18"
 				"antialias"									"1"
 			}
@@ -913,7 +913,7 @@
 		{
 			"1"
 			{
-				"name"										"coolvetica_rg_bold"
+				"name"										"tf2build"
 				"Tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -924,7 +924,7 @@
 		{
 			"1"
 			{
-				"name"										"coolvetica_rg_bold"
+				"name"										"tf2build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -935,7 +935,7 @@
 		{
 			"1"
 			{
-				"name"										"coolvetica_rg_bold"
+				"name"										"tf2build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
