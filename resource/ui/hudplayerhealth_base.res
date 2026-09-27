@@ -250,8 +250,8 @@
 		"Enabled"									"1"
 		"LabelText"									"%Health%"
 		"TextAlignment"								"center"
-		"Font"										"m0refont14"
-		"Font_Minmode"								"m0refont14"
+		"Font"										"m0refont18"
+		"Font_Minmode"								"m0refont18"
 		"FGColor"									"Health_Numbers"
 
 		"Pin_To_Sibling"							"HealthAnchor"
@@ -275,8 +275,8 @@
 		"Enabled"									"1"
 		"LabelText"									"%Health%"
 		"TextAlignment"								"center"
-		"Font"										"m0refont14"
-		"Font_Minmode"								"m0refont14"
+		"Font"										"m0refont18"
+		"Font_Minmode"								"m0refont18"
 		"FGColor"									"Main_Shadow"
 
 		"Pin_To_Sibling"							"HealthValue"
@@ -296,8 +296,8 @@
 		"Enabled"									"1"
 		"LabelText"									"%Health%"
 		"TextAlignment"								"center"
-		"Font"										"m0refont14"
-		"Font_Minmode"								"m0refont14"
+		"Font"										"m0refont18"
+		"Font_Minmode"								"m0refont18"
 		"FGColor"									"Extra_Health_Shadow"
 		"Alpha"										"0"
 
@@ -320,8 +320,8 @@
 		"Enabled"									"1"
 		"LabelText"									"%Health%"
 		"TextAlignment"								"center"
-		"Font"										"m0refont14"
-		"Font_Minmode"								"m0refont14"
+		"Font"										"m0refont18"
+		"Font_Minmode"								"m0refont18"
 		"FGColor"									"Black"
 
 		"Pin_To_Sibling"							"HealthValue"

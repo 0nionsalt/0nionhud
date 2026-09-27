@@ -123,7 +123,7 @@
 		"ZPos"										"1"
 		"Wide"										"200"
 		"Tall"										"43"
-		"Visible"									"0"
+		"Visible"									"1"
 		"ProportionalToParent"						"1"
 		"MouseInputEnabled"							"0"
 		"matchgroup"								"MatchGroup_Casual_12v12"
@@ -917,7 +917,7 @@
 		"Wide"										"20"
 		"Tall"										"17"
 		"Visible"									"1"
-		"Command"									"OpenAchievementsDialog"
+		"Command"									"engine hud_reloadscheme; snd_restart"
 
 		"Pin_To_Sibling"							"Achievements"
 		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
@@ -939,6 +939,7 @@
 			"Font"									"Symbols18"
 			"TextAlignment"							"center"
 			"Sound_Depressed"						"UI/buttonclick.wav"
+			"Command"								"engine hud_reloadscheme; snd_restart"
 
 			"PaintBackground"						"0"
 			"PaintBorder"							"0"
@@ -958,6 +959,7 @@
 		"Wide"										"20"
 		"Tall"										"17"
 		"Visible"									"1"
+		"Command"									"record fix; stop"
 
 		"Pin_To_Sibling"							"HUD_Sound_Reload"
 		"Pin_Corner_To_Sibling"						"PIN_TOPLEFT"
@@ -979,6 +981,7 @@
 			"Font"									"Symbols18"
 			"TextAlignment"							"center"
 			"Sound_Depressed"						"UI/buttonclick.wav"
+			"Command"								"record fix; stop"
 
 			"PaintBackground"						"0"
 			"PaintBorder"							"0"
