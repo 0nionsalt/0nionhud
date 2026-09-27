@@ -24,11 +24,43 @@
 	{
 		"alpha"										"0"
 	}
+	"Player1Class"
+	{
+		"alpha"										"0"
+	}
+	"Player2Class"
+	{
+		"alpha"										"0"
+	}
+	"Player3Class"
+	{
+		"alpha"										"0"
+	}
+	"Player1Badge"
+	{
+		"alpha"										"0"
+	}
+	"Player2Badge"
+	{
+		"alpha"										"0"
+	}
+	"Player3Badge"
+	{
+		"alpha"										"0"
+	}
 	"KillStreakPlayer1Avatar"
 	{
 		"alpha"										"0"
 	}
 	"KillStreakPlayer1Name"
+	{
+		"alpha"										"0"
+	}
+	"KillStreakPlayer1Class"
+	{
+		"alpha"										"0"
+	}
+	"KillStreakPlayer1Badge"
 	{
 		"alpha"										"0"
 	}

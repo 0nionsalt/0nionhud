@@ -244,7 +244,7 @@
 			"Tall"									"8"
 			"Visible"								"0"
 			"Enabled"								"1"
-			"Font"									"SpectatorKeyHints"
+			"Font"									"m0refont12"
 			"LabelText"								"#ControlPointIconCappers"
 			"TextAlignment"							"center"
 			"FGColor"								"White"

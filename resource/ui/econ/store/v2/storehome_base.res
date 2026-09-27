@@ -218,7 +218,7 @@
 			"Enabled"								"1"
 			"LabelText"								"%attriblist%"
 			"TextAlignment"							"center"
-			"Font"									"ItemFontAttribLarge"
+			"Font"									"ItemFontAttribSmall"
 			"FGColor"								"White"
 			"CenterWrap"							"1"
 		}

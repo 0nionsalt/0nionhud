@@ -65,8 +65,8 @@
 		"ProportionalToParent"						"1"
 		"TextAlignment"								"center"
 		"LabelText"									"%Health%"
-		"Font"										"m0refont24"
-		"Font_Minmode"								"m0refont18"
+		"Font"										"m0refont14"
+		"Font_Minmode"								"m0refont12"
 		"FGColor"									"Health_Numbers"
 	}
 	"HealthValue_Target_Shadow"
@@ -85,8 +85,8 @@
 		"ProportionalToParent"						"1"
 		"TextAlignment"								"center"
 		"LabelText"									"%Health%"
-		"Font"										"m0refont24"
-		"Font_Minmode"								"m0refont18"
+		"Font"										"m0refont14"
+		"Font_Minmode"								"m0refont12"
 		"FGColor"									"Black"
 
 		"Pin_To_Sibling"							"HealthValue_Target"
@@ -113,11 +113,11 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"PlayerStatusPlayerLevel"
-		"XPos"										"9999"
-		"YPos"										"9999"
-		"Wide"										"0"
-		"Tall"										"0"
-		"Visible"									"0"
-		"Enabled"									"0"
+		"XPos"										"0"
+		"YPos"										"0"
+		"Wide"										"20"
+		"Tall"										"20"
+		"Visible"									"1"
+		"Enabled"									"1"
 	}
 }

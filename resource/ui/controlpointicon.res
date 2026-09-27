@@ -42,7 +42,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"CapNumPlayers"
-		"Font"										"m0refont18"
+		"Font"										"m0refont12"
 		"XPos"										"6"
 		"YPos"										"0"
 		"ZPos"										"3"

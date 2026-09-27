@@ -75,7 +75,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"FieldName"								"namelabel"
-			"Font"									"ItemFontNameLarge"
+			"Font"									"ItemFontNameSmall"
 			"XPos"									"0"
 			"YPos"									"0"
 			"ZPos"									"2"
@@ -92,7 +92,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"FieldName"								"attriblabel"
-			"Font"									"ItemFontAttribLarge"
+			"Font"									"ItemFontAttribSmall"
 			"XPos"									"0"
 			"YPos"									"30"
 			"ZPos"									"2"
