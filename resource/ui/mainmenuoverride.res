@@ -306,7 +306,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"Create"
-		"XPos"										"-91"
+		"XPos"										"-70"
 		"YPos"										"-1"
 		"ZPos"										"16"
 		"Wide"										"22"
