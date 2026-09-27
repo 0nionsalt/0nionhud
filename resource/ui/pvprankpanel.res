@@ -342,7 +342,7 @@
 		{
 			"ControlName"							"EditablePanel"
 			"FieldName"								"StatsContainer"
-			"XPos"									"-1"
+			"XPos"									"0"
 			"YPos"									"rs1"
 			"Wide"									"f0"
 			"Tall"									"f0"

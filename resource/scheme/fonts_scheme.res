@@ -9,7 +9,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"antialias"									"1"
 			}
@@ -18,7 +18,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"antialias"									"1"
 			}
@@ -27,7 +27,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -37,7 +37,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"antialias"									"1"
 			}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -56,7 +56,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"antialias"									"1"
 			}
@@ -65,7 +65,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -75,7 +75,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"antialias"									"1"
 			}
@@ -84,7 +84,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -94,7 +94,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"antialias"									"1"
 			}
@@ -103,7 +103,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -113,7 +113,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"antialias"									"1"
 			}
@@ -122,7 +122,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -132,7 +132,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -142,7 +142,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -152,7 +152,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"antialias"									"1"
 			}
@@ -161,7 +161,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"antialias"									"1"
 			}
@@ -170,7 +170,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -180,7 +180,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -190,7 +190,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -200,7 +200,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"26"
 				"antialias"									"1"
 			}
@@ -209,7 +209,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"antialias"									"1"
 			}
@@ -218,7 +218,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"antialias"									"1"
 				"outline"									"1"
@@ -228,7 +228,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"antialias"									"1"
 				"outline"									"1"
@@ -238,7 +238,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"32"
 				"antialias"									"1"
 			}
@@ -247,7 +247,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"32"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -257,7 +257,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"36"
 				"antialias"									"1"
 			}
@@ -266,7 +266,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"48"
 				"antialias"									"1"
 			}
@@ -275,7 +275,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"58"
 				"antialias"									"1"
 			}
@@ -320,7 +320,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"antialias"									"1"
 			}
@@ -329,7 +329,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"6"
 				"antialias"									"1"
 			}
@@ -430,7 +430,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
@@ -438,7 +438,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
@@ -446,7 +446,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -454,7 +454,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -462,21 +462,21 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
 			}
 			"6"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x00FF"
 				"weight"									"900"
 			}
 			"7"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x00FF"
 				"weight"									"800"
@@ -486,7 +486,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"500"
 				"underline"									"1"
@@ -494,7 +494,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"range"										"0x0000 0x00FF"
 				"weight"									"800"
@@ -504,7 +504,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -512,7 +512,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -520,7 +520,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -529,7 +529,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -538,7 +538,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -546,7 +546,7 @@
 			}
 			"6"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x00FF"
 				"weight"									"0"
@@ -556,7 +556,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -564,7 +564,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -572,7 +572,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -581,7 +581,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -590,7 +590,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -601,7 +601,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -609,7 +609,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"21"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -617,7 +617,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -626,7 +626,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"28"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -635,7 +635,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -643,14 +643,14 @@
 			}
 			"6"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"range"										"0x0000 0x00FF"
 				"weight"									"900"
 			}
 			"7"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"range"										"0x0000 0x00FF"
 				"weight"									"800"
@@ -660,7 +660,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build" 	[!$OSX]
+				"name"										"tf2_build" 	[!$OSX]
 				"name"										"Helvetica" 	[$OSX]
 				"Tall"										"18"
 				"weight"									"900"
@@ -672,7 +672,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"6"
 				"weight"									"500"
 				"additive"									"0"
@@ -683,7 +683,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -691,7 +691,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -699,7 +699,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -707,7 +707,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -715,7 +715,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"700"
 				"antialias"									"1"
@@ -725,7 +725,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -734,7 +734,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"32"
 				"weight"									"500"
 				"additive"									"0"
@@ -743,7 +743,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"44"
 				"weight"									"500"
 				"additive"									"0"
@@ -752,7 +752,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"48"
 				"weight"									"500"
 				"additive"									"0"
@@ -761,7 +761,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -772,7 +772,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"44"
 				"weight"									"500"
 				"additive"									"0"
@@ -783,7 +783,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"35"
 				"weight"									"500"
 				"additive"									"0"
@@ -794,7 +794,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -805,7 +805,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -816,7 +816,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -827,7 +827,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -838,7 +838,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"yres"										"1 1199"
@@ -847,7 +847,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -858,7 +858,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -869,7 +869,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -880,7 +880,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -891,7 +891,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -902,7 +902,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -913,7 +913,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -924,7 +924,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -935,7 +935,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -947,7 +947,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -958,7 +958,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -970,7 +970,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -981,7 +981,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"500"
 				"additive"									"0"
@@ -992,7 +992,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"4"
 				"weight"									"500"
 				"additive"									"0"
@@ -1003,7 +1003,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -1014,7 +1014,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -1025,7 +1025,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -1036,7 +1036,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -1047,7 +1047,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"6"
 				"weight"									"0"
 				"additive"									"0"
@@ -1058,7 +1058,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
@@ -1069,7 +1069,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -1140,7 +1140,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -1151,7 +1151,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -1162,7 +1162,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -1173,7 +1173,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -1184,7 +1184,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -1195,7 +1195,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -1206,7 +1206,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"15"
 				"weight"									"700"
 				"antialias"									"1"
@@ -1216,7 +1216,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"15"
 				"weight"									"700"
 				"antialias"									"1"
@@ -1226,7 +1226,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"900"
 				"antialias"									"1"
@@ -1235,7 +1235,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"21"
 				"weight"									"900"
 				"antialias"									"1"
@@ -1244,7 +1244,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"1000"
 				"antialias"									"1"
@@ -1256,7 +1256,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"outline"									"1"
@@ -1289,7 +1289,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"90"
 				"weight"									"900"
 				"range"										"0x0000 0x007F"
@@ -1309,7 +1309,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"28"
 				"weight"									"0"
 				"additive"									"1"
@@ -1320,7 +1320,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1331,7 +1331,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -1343,7 +1343,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1354,7 +1354,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -1366,7 +1366,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1377,7 +1377,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"0"
 				"symbol"									"1"
@@ -1388,7 +1388,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"0"
 				"symbol"									"1"
@@ -1399,7 +1399,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1409,7 +1409,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1419,7 +1419,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1429,7 +1429,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"800"
 				"additive"									"0"
@@ -1440,7 +1440,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"28"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1451,7 +1451,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"40"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1462,7 +1462,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1473,7 +1473,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"	[!$OSX]
 				"Tall"										"15"	[$OSX]
 				"antialias"									"1"
@@ -1485,7 +1485,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"6"
 				"weight"									"400"
 				"additive"									"0"
@@ -1496,7 +1496,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"400"
 				"additive"									"0"
@@ -1507,7 +1507,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1518,7 +1518,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1530,7 +1530,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1542,7 +1542,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1554,7 +1554,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1566,7 +1566,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1578,7 +1578,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"34"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1590,7 +1590,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -1601,7 +1601,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"52"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1610,7 +1610,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"72"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1619,7 +1619,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"100"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1628,7 +1628,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"140"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1637,7 +1637,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"180"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1649,7 +1649,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"36"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1661,7 +1661,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1672,7 +1672,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"400"
 				"additive"									"0"
@@ -1683,7 +1683,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1694,7 +1694,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1705,7 +1705,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"400"
 				"additive"									"0"
@@ -1716,7 +1716,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1727,7 +1727,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -1737,7 +1737,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -1747,7 +1747,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -1757,7 +1757,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -1807,7 +1807,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1815,7 +1815,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1823,7 +1823,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1831,7 +1831,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1839,7 +1839,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1850,7 +1850,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1858,7 +1858,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1866,7 +1866,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1874,7 +1874,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1882,7 +1882,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"15"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1893,7 +1893,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"range"										"0x0000 0x00FF"
 				"weight"									"300"
@@ -1904,7 +1904,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"range"										"0x0000 0x00FF"
 				"weight"									"300"
@@ -1915,7 +1915,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1927,7 +1927,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1939,7 +1939,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"0"
 				"additive"									"1"
@@ -1950,7 +1950,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -1961,7 +1961,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"	[!$OSX]
 				"Tall"										"9"		[$OSX]
 				"weight"									"800"
@@ -1973,7 +1973,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"36"
 				"weight"									"500"
 			}
@@ -1982,7 +1982,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"weight"									"500"
 			}
@@ -1991,7 +1991,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"28"
 				"weight"									"500"
 			}
@@ -2000,7 +2000,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"900"
 			}
@@ -2009,7 +2009,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"900"
 			}
@@ -2018,7 +2018,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"500"
 			}
@@ -2027,7 +2027,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 			}
@@ -2036,7 +2036,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"900"
 			}
@@ -2045,7 +2045,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"900"
 			}
@@ -2054,7 +2054,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"15"
 				"weight"									"900"
 			}
@@ -2063,7 +2063,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -2074,7 +2074,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -2085,7 +2085,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"400"
 				"additive"									"0"
@@ -2096,7 +2096,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"900"
 				"antialias"									"1"
@@ -2106,7 +2106,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"600"
 				"additive"									"0"
@@ -2117,7 +2117,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -2128,7 +2128,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"400"
 				"additive"									"0"
@@ -2139,7 +2139,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2148,7 +2148,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2157,7 +2157,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"15"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2169,7 +2169,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -2180,7 +2180,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2191,7 +2191,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2202,7 +2202,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2213,7 +2213,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -2224,7 +2224,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"antialias"									"1"
 				"weight"									"500"
@@ -2234,7 +2234,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2245,7 +2245,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2256,7 +2256,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2267,7 +2267,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2278,7 +2278,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"500"
 				"blur"										"3"
@@ -2290,7 +2290,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"0"
 				"additive"									"1"
@@ -2301,7 +2301,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"0"
 				"additive"									"1"
@@ -2312,7 +2312,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2322,7 +2322,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"0"
 				"blur"										"3"
@@ -2334,7 +2334,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2345,7 +2345,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2355,7 +2355,7 @@
 			"2"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2365,7 +2365,7 @@
 			"3"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"400"
 				"additive"									"0"
@@ -2378,7 +2378,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2388,7 +2388,7 @@
 			"2"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"800"
 				"additive"									"0"
@@ -2398,7 +2398,7 @@
 			"3"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"800"
 				"additive"									"0"
@@ -2411,7 +2411,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"weight"									"400"
 				"additive"									"0"
@@ -2422,7 +2422,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"antialias"									"1"
 				"custom"									"1"	[$OSX]
@@ -2433,7 +2433,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2442,7 +2442,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2451,7 +2451,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2463,7 +2463,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2473,7 +2473,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2483,7 +2483,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2496,7 +2496,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2505,7 +2505,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"800"
 				"additive"									"0"
@@ -2514,7 +2514,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"800"
 				"additive"									"0"
@@ -2526,7 +2526,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"400"
 				"additive"									"0"
@@ -2537,7 +2537,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"weight"									"400"
 				"additive"									"0"
@@ -2548,7 +2548,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
@@ -2559,7 +2559,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"400"
 				"additive"									"0"
@@ -2570,7 +2570,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2580,7 +2580,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"8"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2591,7 +2591,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2603,7 +2603,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2611,7 +2611,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2619,7 +2619,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2628,7 +2628,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2637,7 +2637,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"16"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2649,7 +2649,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2660,7 +2660,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2668,7 +2668,7 @@
 			}
 			"2"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"13"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2676,7 +2676,7 @@
 			}
 			"3"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2685,7 +2685,7 @@
 			}
 			"4"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"20"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2694,7 +2694,7 @@
 			}
 			"5"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"22"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2703,7 +2703,7 @@
 			}
 			"6"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"range"										"0x0000 0x00FF"
 				"weight"									"0"
@@ -2713,7 +2713,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2724,7 +2724,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2735,7 +2735,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2746,7 +2746,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2757,7 +2757,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2768,7 +2768,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2779,7 +2779,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2790,7 +2790,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"15"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -2802,7 +2802,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -2813,7 +2813,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2823,7 +2823,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"11"
 				"weight"									"500"
 				"blur"										"3"
@@ -2835,7 +2835,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2848,7 +2848,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"0"
 				"blur"										"3"
@@ -2861,7 +2861,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"7"
 				"weight"									"400"
 				"additive"									"0"
@@ -2873,7 +2873,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -2885,7 +2885,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2897,7 +2897,7 @@
 			"1"
 			{
 				"name"										"OCR A Extended"	[$WINDOWS]
-				"name"										"tf2build"
+				"name"										"tf2_build"
 				"Tall"										"30"
 				"weight"									"400"
 				"additive"									"0"
@@ -3081,6 +3081,11 @@
 			{
 				"range" "0x0000 0xFFFF"
 			}
+		}
+		"10"
+		{
+			"Font"		"resource/scheme/fonts/fonts_optional/tf2_build.ttf"
+			"name"		"tf2_build"
 		}
 	}
 }
