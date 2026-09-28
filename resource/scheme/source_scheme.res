@@ -143,6 +143,7 @@
 		"RadioButton.TextColor"								"SS_CheckButton_Text"
 		"RadioButton.SelectedTextColor"						"SS_CheckButton_Text"
 		"RadioButton.ArmedTextColor"						"SS_CheckButton_Text_Armed"
+		"RadioButton.Check"									"SS_CheckButton_Armed"
 
 		"RichText.BGColor"									"SS_Console_Text_BG"
 		"RichText.SelectedTextColor"						"SS_Console_Text_Selected"

@@ -425,6 +425,7 @@
 		"RadioButton.TextColor"								"Gray"
 		"RadioButton.SelectedTextColor"						"White"
 		"RadioButton.ArmedTextColor"						"White"
+		"RadioButton.Check"									"White"
 
 		"RichText.TextColor"								"White"
 		"RichText.BGColor"									"Blank"
