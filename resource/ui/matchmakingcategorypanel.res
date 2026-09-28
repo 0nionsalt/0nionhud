@@ -34,8 +34,8 @@
 			"ZPos"									"0"
 			"Wide"									"o4"
 			"Tall"									"f0"
-			"Visible"								"1"
-			"Enabled"								"1"
+			"Visible"								"0"
+			"Enabled"								"0"
 			"ScaleImage"							"1"
 			"ProportionalToParent"					"1"
 		}
@@ -104,12 +104,18 @@
 			"ZPos"									"103"
 			"Wide"									"25"
 			"Tall"									"20"
+			"Visible"								"1"
+			"Enabled"								"1"
 			"ProportionalToParent"					"1"
 			"LabelText"								""
 			"SmallCheckImage"						"0"
+			"TextAlignment"							"center"
 
 			"Sound_Depressed"						"UI/buttonclickrelease.wav"
 			"button_activation_type"				"1"
+
+			"PaintBackground"						"1"
+			"PaintBorder"							"1"
 		}
 		"Title"
 		{
