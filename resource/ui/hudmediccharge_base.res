@@ -125,8 +125,8 @@
 		"ControlName"								"ContinuousProgressBar"
 		"FieldName"									"ChargeMeter"
 		"XPos"										"cs-0.5"
-		"YPos"										"r60"
-		"YPos_Minmode"								"r50"
+		"YPos"										"rs1"
+		"YPos_Minmode"								"rs1"
 		"ZPos"										"2"
 		"Wide"										"140"
 		"Wide_Minmode"								"100"
@@ -136,6 +136,10 @@
 		"Enabled"									"1"
 		"ProportionalToParent"						"1"
 		"FGColor_Override"							"White"
+
+		"Pin_To_Sibling"							"ChargeLabel"
+		"Pin_Corner_To_Sibling"						"PIN_CENTER_TOP"
+		"Pin_To_Sibling_Corner"						"PIN_CENTER_BOTTOM"
 	}
 
 	//==================================================================================================================================================
