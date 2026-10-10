@@ -9,6 +9,13 @@
 				"name"										"avenir_black"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"avenir_black"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

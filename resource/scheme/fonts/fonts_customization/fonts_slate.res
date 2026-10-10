@@ -10,6 +10,14 @@
 				"Tall"										"8"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"slate_pro_bold_condensed"
+				"Tall"										"8"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

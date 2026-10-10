@@ -9,6 +9,13 @@
 				"name"										"neutra_text_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"neutra_text_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

@@ -10,6 +10,14 @@
 				"Tall"										"7"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"helvetica_neue_lt"
+				"Tall"										"7"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

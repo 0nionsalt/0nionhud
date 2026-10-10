@@ -10,6 +10,14 @@
 				"Tall"										"8"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"days"
+				"Tall"										"8"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

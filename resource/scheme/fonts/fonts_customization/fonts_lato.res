@@ -9,6 +9,13 @@
 				"name"										"lato_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"lato_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

@@ -9,6 +9,13 @@
 				"name"										"raleway_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"raleway_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

@@ -9,6 +9,13 @@
 				"name"										"code_pro_lc"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"code_pro_lc"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

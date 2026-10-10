@@ -9,6 +9,13 @@
 				"name"										"renogare_soft_regular"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"renogare_soft_regular"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

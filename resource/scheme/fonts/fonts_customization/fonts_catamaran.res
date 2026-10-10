@@ -10,6 +10,14 @@
 				"Tall"										"11"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"catamaran_semibold"
+				"Tall"										"11"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

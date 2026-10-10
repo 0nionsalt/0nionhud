@@ -9,6 +9,13 @@
 				"name"										"tt_octosquares_trl_bld"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"tt_octosquares_trl_bld"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

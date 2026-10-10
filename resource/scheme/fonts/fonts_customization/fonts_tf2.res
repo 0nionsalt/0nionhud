@@ -9,6 +9,13 @@
 				"name"										"tf2_secondary"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"tf2_secondary"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

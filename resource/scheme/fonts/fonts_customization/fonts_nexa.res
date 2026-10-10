@@ -9,6 +9,13 @@
 				"name"										"nexa_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"nexa_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

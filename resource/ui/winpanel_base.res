@@ -305,6 +305,7 @@
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player1Name"
 		"Font"										"m0refont9"
+		"FGColor"							"White"
 		"XPos"										"384"
 		"YPos"										"266"
 		"ZPos"										"3"
@@ -313,7 +314,7 @@
 		"Visible"									"1"
 		"Enabled"									"1"
 		"LabelText"									""
-		"TextAlignment"								"west"
+		"TextAlignment"								"north-west"
 	}
 	"Player1Class"
 	{
@@ -381,6 +382,7 @@
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player2Name"
 		"Font"										"m0refont9"
+		"FGColor"							"White"
 		"XPos"										"384"
 		"YPos"										"286"
 		"ZPos"										"3"
@@ -389,7 +391,7 @@
 		"Visible"									"1"
 		"Enabled"									"1"
 		"LabelText"									""
-		"TextAlignment"								"west"
+		"TextAlignment"								"north-west"
 	}
 	"Player2Class"
 	{
@@ -457,6 +459,7 @@
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player3Name"
 		"Font"										"m0refont9"
+		"FGColor"							"White"
 		"XPos"										"384"
 		"YPos"										"306"
 		"ZPos"										"3"
@@ -465,7 +468,7 @@
 		"Visible"									"1"
 		"Enabled"									"1"
 		"LabelText"									""
-		"TextAlignment"								"west"
+		"TextAlignment"								"north-west"
 	}
 	"Player3Class"
 	{
@@ -526,7 +529,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"WinReasonLabel"
-		"Font"										"m0refont9"
+		"Font"										"m0refont8"
 		"XPos"										"310"
 		"YPos"										"223"
 		"ZPos"										"1"

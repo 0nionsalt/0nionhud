@@ -9,6 +9,13 @@
 				"name"										"roboto_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"roboto_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

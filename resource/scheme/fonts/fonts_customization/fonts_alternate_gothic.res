@@ -9,6 +9,13 @@
 				"name"										"alternate_gothic_ef"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"alternate_gothic_ef"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

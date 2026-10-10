@@ -9,6 +9,13 @@
 				"name"										"product_sans_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"product_sans_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

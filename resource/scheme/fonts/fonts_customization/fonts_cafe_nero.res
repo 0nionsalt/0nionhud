@@ -10,6 +10,14 @@
 				"Tall"										"7"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"cafe_nero_m54"
+				"Tall"										"7"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

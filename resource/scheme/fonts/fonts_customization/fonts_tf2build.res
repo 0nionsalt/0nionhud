@@ -9,6 +9,13 @@
 				"name"										"tf2_build"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"tf2_build"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

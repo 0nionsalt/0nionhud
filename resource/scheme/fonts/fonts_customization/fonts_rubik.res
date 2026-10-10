@@ -9,6 +9,13 @@
 				"name"										"rubik_semibold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"rubik_semibold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

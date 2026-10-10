@@ -9,6 +9,13 @@
 				"name"										"futura_std_heavy"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"futura_std_heavy"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

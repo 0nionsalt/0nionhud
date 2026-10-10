@@ -9,6 +9,13 @@
 				"name"										"mavenpro_black"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"mavenpro_black"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

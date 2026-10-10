@@ -9,6 +9,13 @@
 				"name"										"surface_medium"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"surface_medium"
+			}
+		}
 		"m0refont10"
 		{
 			"1"

@@ -9,6 +9,13 @@
 				"name"										"ubuntu_bold"
 			}
 		}
+		"m0refont8"
+		{
+			"1"
+			{
+				"name"										"ubuntu_bold"
+			}
+		}
 		"m0refont10"
 		{
 			"1"
