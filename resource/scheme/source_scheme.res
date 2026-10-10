@@ -48,7 +48,7 @@
 		"SS_Slider_BG"										"18 15 14 255"
 
 		"SS_Label"											"255 255 255 255"
-		"SS_Label_Selected"									"255 255 255 255"
+		"SS_Label_Selected"								"255 128 0 255"
 
 		"SS_ToolTip_Text"									"18 15 14 255"
 		"SS_ToolTip_BG"										"150 152 154 255"
@@ -160,7 +160,7 @@
 		"Label.TextDullColor"								"SS_Label"
 		"Label.TextColor"									"SS_Label"
 		"Label.TextBrightColor"								"SS_Label"
-		"Label.SelectedTextColor"							"SS_Label_Selected"
+		"Label.SelectedTextColor"								"SS_Label_Selected"
 		"Label.BGColor"										"Blank"
 		"Label.DisabledFGColor1"							"SS_Option_Disabled"
 		"Label.DisabledFGColor2"							"Blank"
@@ -186,7 +186,7 @@
 		"Tooltip.BGColor"									"SS_ToolTip_BG"
 
 		"MainMenu.TextColor"								"SS_Label"
-		"MainMenu.ArmedTextColor"							"SS_Label_Selected"
+		"MainMenu.ArmedTextColor"								"SS_Label_Selected"
 		"MainMenu.Backdrop"									"Blank"
 
 		"Menu.FGColor"										"SS_RightClick_Menu_Text"

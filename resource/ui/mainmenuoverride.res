@@ -148,7 +148,7 @@
 		"ProportionalToParent"					"1"
 		"Font"					"HudFontSmallishBold"
 		"FGColor"					"White"
-		"LabelText"					"RANK"
+		"LabelText"					""
 		"AllCaps"					"1"
 		"TextAlignment"					"west"
 		"Pin_To_Sibling"					"MainMenuAnchor"

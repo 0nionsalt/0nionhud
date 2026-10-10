@@ -34,7 +34,7 @@
 	{
 		"ControlName"								"Panel"
 		"FieldName"									"ClassesAnchor"
-		"XPos"										"c15"
+		"XPos"										"c200"
 		"YPos"										"c-65"
 		"Wide"										"10"
 		"Tall"										"10"
@@ -67,7 +67,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -99,7 +99,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -171,7 +171,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -243,7 +243,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -315,7 +315,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -387,7 +387,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -459,7 +459,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -531,7 +531,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -603,7 +603,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -675,7 +675,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -745,7 +745,7 @@
 		"PaintBackground"							"0"
 		"FGColor"									"White"
 		"DefaultFGColor_Override"					"White"
-		"ArmedFGColor_Override"						"Class_Selection"
+		"ArmedFGColor_Override"						"255 128 0 255"
 		"DepressedFGColor_Override"					"Class_Selection"
 		"selectedFGColor_override"					"Class_Selection"
 
@@ -770,7 +770,7 @@
 		"Enabled"									"1"
 
 		"render_texture"							"0"
-		"fov"										"50"
+		"fov"										"42"
 		"Allow_Rot"									"0"
 
 		"PaintBackground"							"0"

@@ -581,7 +581,7 @@
 		"ZPos"										"3"
 		"Wide"										"70"
 		"Tall"										"20"
-		"Visible"									"1"
+		"Visible"									"0"
 		"Enabled"									"1"
 		"LabelText"									"#Winpanel_PointsThisRound"
 		"TextAlignment"								"east"
