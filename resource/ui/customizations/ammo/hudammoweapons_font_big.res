@@ -2,11 +2,11 @@
 {
 	"AmmoInClip"
 	{
-		"Font"										"m0refont14"
+		"Font"										"m0refont18"
 	}
 	"AmmoInClipShadow"
 	{
-		"Font"										"m0refont14"
+		"Font"										"m0refont18"
 	}
 	"AmmoInReserve"
 	{

@@ -21,7 +21,7 @@
 	}
 	"Items"
 	{
-		"label"										"Items"
+		"label"										"Backpack"
 		"Command"									"engine open_charinfo"
 	}
 	"Store"

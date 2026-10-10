@@ -244,7 +244,7 @@
 			"Tall"									"8"
 			"Visible"								"0"
 			"Enabled"								"1"
-			"Font"									"m0refont12"
+			"Font"									"ControlPointTimerSmaller"
 			"LabelText"								"#ControlPointIconCappers"
 			"TextAlignment"							"center"
 			"FGColor"								"White"
