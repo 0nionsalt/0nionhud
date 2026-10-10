@@ -128,7 +128,7 @@
 		"MouseInputEnabled"							"0"
 		"matchgroup"								"MatchGroup_Casual_12v12"
 		"show_model"								"0"
-		"show_type"									"1"
+		"show_type"									"0"
 
 		"Pin_To_Sibling"							"MainMenuAnchor"
 		"Pin_Corner_To_Sibling"						"PIN_BOTTOMLEFT"
@@ -370,6 +370,7 @@
 			"Use_Proportional_Insets"				"1"
 			"TextInsetX"							"0"
 			"Font"									"HudFontSmallishBold"
+			"LabelText"								"BACKPACK"
 			"AllCaps"								"1"
 			"TextAlignment"							"west"
 			"Sound_Depressed"						"UI/buttonclick.wav"
