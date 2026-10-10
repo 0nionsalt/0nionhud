@@ -128,8 +128,8 @@
 		"CheckButton.HighlightFGColor"						"SS_CheckButton_Text_Armed"
 		"CheckButton.ArmedBGColor"							"Blank"
 		"CheckButton.DepressedBGColor"						"Blank"
-		"CheckButton.Border1"								"Blank"
-		"CheckButton.Border2"								"Blank"
+		"CheckButton.Border1"								"SS_CheckButton_Text"
+		"CheckButton.Border2"								"SS_CheckButton_Text"
 		"CheckButton.Check"									"SS_CheckButton_Armed"
 		"CheckButton.DisabledBGColor"						"SS_CheckButton_BG"
 
