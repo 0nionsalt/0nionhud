@@ -1035,7 +1035,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"FieldName"								"Notifications_CountLabel"
-			"XPos"								"58"
+			"XPos"								"63"
 			"YPos"								"cs-0.5"
 			"ZPos"									"4"
 			"Wide"									"30"

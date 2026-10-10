@@ -35,4 +35,15 @@
 		"AllCaps"									"1"
 		"FGColor"									"White"
 	}
+	"CloseButton"
+	{
+		"ControlName"								"CExImageButton"
+		"FieldName"									"CloseButton"
+		"XPos"										"9999"
+		"YPos"										"9999"
+		"Wide"										"0"
+		"Tall"										"0"
+		"Visible"									"0"
+		"Enabled"								"0"
+	}
 }
