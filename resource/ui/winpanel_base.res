@@ -5,7 +5,7 @@
 		"ControlName"								"EditablePanel"
 		"FieldName"									"TeamScoresPanel"
 		"XPos"										"300"
-		"YPos"										"214"
+		"YPos"										"235"
 		"Wide"										"220"
 		"Tall"										"60"
 		"Visible"									"1"
@@ -197,7 +197,7 @@
 		"ControlName"								"ImagePanel"
 		"FieldName"									"ShadedBar"
 		"XPos"										"300"
-		"YPos"										"214"
+		"YPos"										"235"
 		"ZPos"										"2"
 		"Wide"										"220"
 		"Tall"										"60"
@@ -278,7 +278,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player1Score"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"476"
 		"YPos"										"361"
 		"ZPos"										"3"
@@ -308,7 +308,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player1Name"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"FGColor"							"White"
 		"XPos"										"364"
 		"YPos"										"361"
@@ -324,7 +324,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player1Class"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"434"
 		"YPos"										"361"
 		"ZPos"										"3"
@@ -355,7 +355,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player2Score"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"476"
 		"YPos"										"381"
 		"ZPos"										"3"
@@ -385,7 +385,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player2Name"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"FGColor"							"White"
 		"XPos"										"364"
 		"YPos"										"381"
@@ -401,7 +401,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player2Class"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"434"
 		"YPos"										"381"
 		"ZPos"										"3"
@@ -432,7 +432,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player3Score"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"476"
 		"YPos"										"401"
 		"ZPos"										"3"
@@ -462,7 +462,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player3Name"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"FGColor"							"White"
 		"XPos"										"364"
 		"YPos"										"401"
@@ -478,7 +478,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"Player3Class"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"434"
 		"YPos"										"401"
 		"ZPos"										"3"
@@ -677,7 +677,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"KillStreakPlayer1Name"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"364"
 		"YPos"										"447"
 		"ZPos"										"3"
@@ -692,7 +692,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"							"KillStreakSubtitle"
-		"Font"									"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"									"364"
 		"YPos"									"463"
 		"ZPos"									"3"
@@ -708,7 +708,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"KillStreakPlayer1Class"
-		"Font"										"m0refont11"
+		"Font"	"m0refont8"
 		"XPos"										"399"
 		"YPos"										"447"
 		"ZPos"										"3"
@@ -723,7 +723,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"FieldName"									"KillStreakPlayer1Score"
-		"Font"										"m0refont9"
+		"Font"	"m0refont8"
 		"XPos"										"476"
 		"YPos"										"463"
 		"ZPos"										"3"
