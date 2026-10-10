@@ -1129,12 +1129,12 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MOTD_Panel"
-		"XPos"										"c+175"
-		"YPos"										"cs-0.5+65"
+		"XPos"										"0"
+		"YPos"										"18"
 		"ZPos"										"100"
-		"Wide"										"200"
-		"Tall"										"350"
-		"Visible"									"1"
+		"Wide"										"160"
+		"Tall"										"430"
+		"Visible"								"0"
 
 		"CloseButton"
 		{
@@ -1145,7 +1145,7 @@
 			"ZPos"									"1"
 			"Wide"									"16"
 			"Tall"									"16"
-			"Visible"								"0"
+			"Visible"								"1"
 			"Enabled"								"1"
 			"ProportionalToParent"					"1"
 			"Font"									"Symbols18"
@@ -1207,11 +1207,11 @@
 			{
 				"ControlName"						"CSteamFriendsListPanel"
 				"FieldName"							"SteamFriendsList"
-				"XPos"								"rs1"
-				"YPos"								"rs1-2"
+				"XPos"								"0"
+				"YPos"								"16"
 				"ZPos"								"500"
-				"Wide"								"f2"
-				"Tall"								"f20"
+				"Wide"								"f0"
+				"Tall"								"f0"
 				"Visible"							"1"
 				"ProportionalToParent"				"1"
 

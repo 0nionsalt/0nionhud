@@ -263,6 +263,7 @@
 			"if_mini"
 			{
 				"Wide"								"0"
+				"Visible"							"0"
 			}
 			"fonts"
 			{
@@ -392,6 +393,7 @@
 					"if_mini"
 					{
 						"Wide"						"100"
+						"Visible"					"0"
 					}
 				}
 				"NextLevelXPLabel"
@@ -414,6 +416,7 @@
 					"if_mini"
 					{
 						"Wide"						"100"
+						"Visible"					"0"
 					}
 				}
 				"ProgressBarsContainer"
