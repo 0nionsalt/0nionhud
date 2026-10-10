@@ -1377,7 +1377,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_build"
+				"name"										"Marlett"
 				"Tall"										"20"
 				"weight"									"0"
 				"symbol"									"1"
@@ -1388,7 +1388,7 @@
 		{
 			"1"
 			{
-				"name"										"tf2_build"
+				"name"										"Marlett"
 				"Tall"										"14"
 				"weight"									"0"
 				"symbol"									"1"
