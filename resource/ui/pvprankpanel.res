@@ -468,11 +468,11 @@
 						"ProportionalToParent"		"1"
 						"progress"					"0"
 
-						"FGColor_Override"			"Menu_Accent"
+						"FGColor_Override"			"255 128 0 255"
 
 						"if_mini"
 						{
-							"FGColor_Override"		"CreditsGreen"
+							"FGColor_Override"		"255 128 0 255"
 						}
 					}
 					"Frame"

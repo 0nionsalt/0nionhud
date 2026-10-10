@@ -1035,7 +1035,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"FieldName"								"Notifications_CountLabel"
-			"XPos"								"rs1"
+			"XPos"								"58"
 			"YPos"								"cs-0.5"
 			"ZPos"									"4"
 			"Wide"									"30"
@@ -1044,7 +1044,7 @@
 			"Enabled"								"1"
 			"ProportionalToParent"					"1"
 			"MouseInputEnabled"						"0"
-			"Font"									"HudFontSmallishBold"
+			"Font"								"HudFontSmallBold"
 			"LabelText"								"%noticount%"
 			"TextAlignment"							"east"
 			"FGColor"								"255 200 0 255"
@@ -1121,8 +1121,8 @@
 			"DepressedFGColor_Override"				"White"
 
 			"DefaultBGColor_Override"				"TransparentBlack"
-			"ArmedBGColor_Override"					"Menu_Accent"
-			"DepressedBGColor_Override"				"Menu_Accent"
+			"ArmedBGColor_Override"					"255 128 0 255"
+			"DepressedBGColor_Override"				"255 128 0 255"
 		}
 	}
 	"MOTD_Panel"
@@ -1130,10 +1130,10 @@
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MOTD_Panel"
 		"XPos"										"0"
-		"YPos"										"42"
+		"YPos"										"66"
 		"ZPos"										"100"
 		"Wide"										"163"
-		"Tall"										"438"
+		"Tall"										"414"
 		"Visible"								"0"
 
 		"CloseButton"
