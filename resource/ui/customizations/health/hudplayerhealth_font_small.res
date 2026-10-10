@@ -37,19 +37,19 @@
 	}
 	"HealthValue"
 	{
-		"Font"										"m0refont18"
+		"Font"										"m0refont26"
 	}
 	"HealthValue_Shadow"
 	{
-		"Font"										"m0refont18"
+		"Font"										"m0refont26"
 	}
 	"HealthValue_Shadow_Extra"
 	{
-		"Font"										"m0refont18"
+		"Font"										"m0refont26"
 	}
 	"HealthValue_Shadow_Black"
 	{
-		"Font"										"m0refont18"
+		"Font"										"m0refont26"
 	}
 	"PlayerStatusAnchor"
 	{
