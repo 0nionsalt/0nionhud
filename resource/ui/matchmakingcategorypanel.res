@@ -34,8 +34,8 @@
 			"ZPos"									"0"
 			"Wide"									"o4"
 			"Tall"									"f0"
-			"Visible"								"0"
-			"Enabled"								"0"
+			"Visible"								"1"
+			"Enabled"								"1"
 			"ScaleImage"							"1"
 			"ProportionalToParent"					"1"
 		}
