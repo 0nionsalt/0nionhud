@@ -42,7 +42,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"FieldName"								"ItemLabel"
-			"Font"									"m0refont11"
+			"Font"									"m0refont10"
 			"XPos"									"10"
 			"YPos"									"3"
 			"ZPos"									"1"

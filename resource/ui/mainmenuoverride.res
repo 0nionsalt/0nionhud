@@ -50,7 +50,7 @@
 				"PaintBorder"						"0"
 
 				"DefaultFGColor_Override"			"White"
-				"ArmedFGColor_Override"				"Menu_Accent"
+				"ArmedFGColor_Override"				"255 128 0 255"
 				"DepressedFGColor_Override"			"Menu_Accent"
 			}
 		}
@@ -279,7 +279,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -319,7 +319,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -359,7 +359,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -399,7 +399,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -439,7 +439,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -479,7 +479,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -519,7 +519,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -559,7 +559,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -599,7 +599,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -639,7 +639,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -679,7 +679,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -719,7 +719,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -764,7 +764,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -805,7 +805,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -843,7 +843,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -883,7 +883,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -924,7 +924,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -966,7 +966,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -1008,7 +1008,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -1075,7 +1075,7 @@
 			"PaintBorder"							"0"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
@@ -1130,10 +1130,10 @@
 		"ControlName"								"EditablePanel"
 		"FieldName"									"MOTD_Panel"
 		"XPos"										"0"
-		"YPos"										"18"
+		"YPos"										"22"
 		"ZPos"										"100"
-		"Wide"										"160"
-		"Tall"										"430"
+		"Wide"										"163"
+		"Tall"										"458"
 		"Visible"								"0"
 
 		"CloseButton"
@@ -1164,7 +1164,7 @@
 			"DepressedBGColor_Override"				"TransparentLightBlack"
 
 			"DefaultFGColor_Override"				"White"
-			"ArmedFGColor_Override"					"Menu_Accent"
+			"ArmedFGColor_Override"					"255 128 0 255"
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 		"FriendsContainer"
