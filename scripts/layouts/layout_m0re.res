@@ -98,8 +98,8 @@
 	}
 	"CMainTargetID"
 	{
-		"YPos"										"c74"
-		"YPos_Minmode"								"c17"
+		"YPos"										"c14"
+		"YPos_Minmode"								"c-43"
 		"Tall"										"55"
 		"Tall_Minmode"								"55"
 	}
@@ -174,8 +174,8 @@
 	}
 	"HudCloseCaption"
 	{
-		"XPos"										"c220"
-		"XPos_Minmode"								"c-35"
+		"XPos"										"c-720"
+		"XPos_Minmode"								"c-465"
 		"YPos"										"c112"
 		"YPos_Minmode"								"r105"
 		"Wide"										"500"

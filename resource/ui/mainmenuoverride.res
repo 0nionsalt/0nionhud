@@ -1,4 +1,5 @@
 #base "../../../../cfg/0nionhud/m0re_menu_bg.txt"
+#base "customizations/menu/mainmenu_bg.res"
 #base "customizations/#customization_menu/hud_customization.res"
 #base "../dev/texture_preload.res"
 #base "../dev/reload_menu.res"
@@ -1020,7 +1021,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"FieldName"									"Notifications_ShowButtonPanel"
-		"XPos"								"r400"
+		"XPos"								"r0"
 		"YPos"								"75"
 		"ZPos"										"15"
 		"Wide"								"300"
