@@ -4,10 +4,10 @@
 	{
 		"ControlName"								"CNotificationsPresentPanel"
 		"FieldName"									"NotificationsPresentPanel"
-		"XPos"								"c+150"
-		"YPos"								"35"
+		"XPos"								"r10"
+		"YPos"								"10"
 		"ZPos"										"10000"
-		"Wide"								"190"
+		"Wide"								"160"
 		"Tall"								"50"
 		"Visible"									"0"
 		"Enabled"									"1"
