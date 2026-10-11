@@ -2,9 +2,10 @@
 {
 	"HudItemEffectMeter"
 	{
-		"XPos"										"rs1-4"
-		"XPos_Minmode"								"rs1-4"
-		"YPos_Minmode"								"rs1-3"
+		"XPos"										"c-390"
+		"XPos_Minmode"								"c-195"
+		"YPos"									"c480"
+		"YPos_Minmode"								"c242"
 	}
 	"ItemEffectMeterLabel"
 	{

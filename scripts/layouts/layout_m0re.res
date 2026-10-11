@@ -140,8 +140,8 @@
 	}
 	"CurrencyStatusPanel"
 	{
-		"XPos"										"c-45"
-		"XPos_Minmode"								"c-45"
+		"XPos"										"135"
+		"XPos_Minmode"								"135"
 		"YPos"										"rs1"
 		"YPos_Minmode"								"rs1"
 		"ZPos"										"2"
@@ -176,7 +176,7 @@
 	{
 		"XPos"										"c220"
 		"XPos_Minmode"								"c-35"
-		"YPos"										"c112"
+		"YPos"										"c80"
 		"YPos_Minmode"								"r105"
 		"Wide"										"500"
 		"Tall"										"50"
