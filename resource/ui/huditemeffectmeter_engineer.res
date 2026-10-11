@@ -1,8 +1,8 @@
 #base "huditemeffectmeter_demoman.res"
 
-// Move the Engineer's revenge counter to the lower-right position shown in the HUD reference.
+// Place the Engineer's revenge counter below the ammo readout at the bottom of the screen.
 "HudItemEffectMeter"
 {
-	"XPos"									"c375"
+	"XPos"									"c-390"
 	"YPos"									"c480"
 }

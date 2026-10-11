@@ -174,8 +174,8 @@
 	}
 	"HudCloseCaption"
 	{
-		"XPos"										"c-720"
-		"XPos_Minmode"								"c-465"
+		"XPos"										"c220"
+		"XPos_Minmode"								"c-35"
 		"YPos"										"c112"
 		"YPos_Minmode"								"r105"
 		"Wide"										"500"
