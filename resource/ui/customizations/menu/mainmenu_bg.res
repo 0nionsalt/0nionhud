@@ -2,18 +2,17 @@
 {
 	"Custom_Background"
 	{
-		"ControlName"								"EditablePanel"
+		"ControlName"								"ImagePanel"
 		"FieldName"									"Custom_Background"
 		"XPos"										"cs-0.5"
 		"YPos"										"cs-0.5"
 		"Zpos"										"-10"
 		"Wide"										"f0"
 		"Tall"										"f0"
-		"ProportionalToParent"						"1"
+		"ProportionalToParent"					"1"
 		"Visible"									"1"
 		"Enabled"									"1"
-		"PaintBackground"							"1"
-		"PaintBackgroundType"						"0"
-		"BGcolor_Override"							"Background_Main"
+		"Image"										"replay/thumbnails/customizations/menu/mainmenu_bg"
+		"ScaleImage"								"1"
 	}
 }
