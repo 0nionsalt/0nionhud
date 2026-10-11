@@ -2,8 +2,8 @@
 {
 	"HudItemEffectMeter"
 	{
-		"YPos"										"c188-7"
-		"YPos_Minmode"								"c65"
+		"YPos"										"c109"
+		"YPos_Minmode"								"c18"
 		"Wide"										"100"
 		"Wide_Minmode"								"70"
 		"Tall"										"5"
